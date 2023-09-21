@@ -4,3 +4,4 @@ steps
 1. open the traffic light.pdsprj.SOLO.solot.workspace file in proteus application
 2. add the sketch_sep20a.ino.standard.hex inthe ardiuno board simulation
 3. run the program.
+![some image](https://github.com/solomonsitot/Arduino-programming/blob/main/Screenshot%20(80).png)
